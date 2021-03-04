@@ -8,10 +8,10 @@ public class Aritmatika{
     
     Scanner test = new Scanner(System.in);
     
-    System.out.print("Masukkan nilai a: ")
+    System.out.print("Masukkan nilai a: ");
     a = test.nextInt();
     
-    System.out.print("Masukkan nilai b: ")
+    System.out.print("Masukkan nilai b: ");
     b = test.nextInt();
     
     hasil = a + b;
